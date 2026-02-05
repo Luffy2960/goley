@@ -9,7 +9,7 @@
       <div class="benefits-grid">
         <div class="benefit-card">
           <div class="card-image">
-            <img src="../assets/img/L8.jpg" alt="Sản phẩm 1" />
+            <img src="../assets/img/;8.jpg" alt="Sản phẩm 1" />
           </div>
           <div class="card-content">
             <h3 class="card-title">L8</h3>
@@ -19,7 +19,7 @@
 
         <div class="benefit-card">
           <div class="card-image">
-            <img src="../assets/img/S6.jpg" alt="Sản phẩm 2" />
+            <img src="../assets/img/s6.jpg" alt="Sản phẩm 2" />
           </div>
           <div class="card-content">
             <h3 class="card-title">S6</h3>
@@ -29,7 +29,7 @@
 
         <div class="benefit-card">
           <div class="card-image">
-            <img src="../assets/img/S7.jpg" alt="Sản phẩm 3" />
+            <img src="../assets/img/s7.jpg" alt="Sản phẩm 3" />
           </div>
           <div class="card-content">
             <h3 class="card-title">Gói Premium</h3>
@@ -39,7 +39,7 @@
 
         <div class="benefit-card">
           <div class="card-image">
-            <img src="../assets/img/K9_xanh.jpg" alt="Sản phẩm 4" />
+            <img src="../assets/img/k9_xanh.jpg" alt="Sản phẩm 4" />
           </div>
           <div class="card-content">
             <h3 class="card-title">Gói Trọn Đời</h3>
