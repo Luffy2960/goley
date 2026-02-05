@@ -9,7 +9,7 @@
       <div class="benefits-grid">
         <div class="benefit-card">
           <div class="card-image">
-            <img src="../assets/img/;8.jpg" alt="Sản phẩm 1" />
+            <img src="../assets/img/l8.jpg" alt="Sản phẩm 1" />
           </div>
           <div class="card-content">
             <h3 class="card-title">L8</h3>
